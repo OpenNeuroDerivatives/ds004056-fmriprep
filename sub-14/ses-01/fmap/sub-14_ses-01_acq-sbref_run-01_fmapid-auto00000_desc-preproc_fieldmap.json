@@ -1,0 +1,30 @@
+{
+  "AnatomicalReference": "sub-14_ses-01_acq-sbref_run-01_fmapid-auto00000_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-14_ses-01_acq-sbref_run-01_fmapid-auto00000_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-01_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-01_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-02_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-02_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-03_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-03_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-04_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-04_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-05_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-05_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-06_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-06_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-07_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-07_sbref.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-08_bold.nii.gz",
+    "ses-01/func/sub-14_ses-01_task-GDMotor_run-08_sbref.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004056-fmriprep/sourcedata/raw/sub-14/ses-01/fmap/sub-14_ses-01_acq-sbref_dir-AP_run-01_epi.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004056-fmriprep/sourcedata/raw/sub-14/ses-01/fmap/sub-14_ses-01_acq-sbref_dir-PA_run-01_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}
