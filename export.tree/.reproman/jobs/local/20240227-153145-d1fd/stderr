@@ -1,5 +1,0 @@
-chmod: cannot operate on dangling symlink ‘code/containers/.git/annex’
-WARNING (03/02/24 04:42:41): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6141630.hostlist.cH6iBSTE to get hosts
-starting job on c210-030
-starting job on c211-005
