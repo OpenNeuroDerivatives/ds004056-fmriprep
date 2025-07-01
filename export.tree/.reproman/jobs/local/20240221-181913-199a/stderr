@@ -1,0 +1,18 @@
+Warning: Permanently added 'c140-073' (ECDSA) to the list of known hosts.
+WARNING (02/23/24 13:30:31): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6126394.hostlist.O4EPypta to get hosts
+starting job on c140-073
+starting job on c141-193
+starting job on c141-201
+starting job on c142-002
+starting job on c142-011
+starting job on c142-013
+starting job on c143-182
+starting job on c146-052
+slurmstepd: error: *** JOB 6126394 ON c140-073 CANCELLED AT 2024-02-24T05:28:21 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
